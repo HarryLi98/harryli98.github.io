@@ -1,27 +1,27 @@
 {
-    "id": "2CAC5463",
-    "path": "~/GitHub/harryli98.github.io/content/post/Imperial/Imperial.Rmd",
-    "project_path": "content/post/Imperial/Imperial.Rmd",
+    "id": "F0A7FCAD",
+    "path": "~/GitHub/harryli98.github.io/content/post/EME/EME.Rmd",
+    "project_path": "content/post/EME/EME.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3434754560",
     "contents": "",
     "dirty": false,
-    "created": 1671305690304.0,
+    "created": 1671306083520.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,16",
-        "scrollLine": "0"
+        "cursorPosition": "38,0",
+        "scrollLine": "33"
     },
     "folds": "",
-    "lastKnownWriteTime": 1671305770,
+    "lastKnownWriteTime": 1671312435,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1671305770077,
+    "last_content_update": 1671312435641,
     "read_only": false,
     "read_only_alternatives": []
 }
