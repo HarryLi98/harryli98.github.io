@@ -3,6 +3,10 @@ title: Harry Li
 theme: "hugo-PaperMod"
 languageCode: en-us
 
+ignoreFiles:
+  - "/post/Imperial"
+  - "post/Chess"
+
 menu:
   main:
     - name: Blog
@@ -21,16 +25,18 @@ params:
         imageWidth: 250 # custom size
         imageHeight: 250 # custom size
         buttons:
+            - name: About
+              url: "/about"        
             - name: Blog
               url: "/blog"
-            - name: Github
-              url: "https://github.com/HarryLi98/"
-              
     socialIcons:
-        - name: "Instagram"
-          url: "https://www.instagram.com/harryli98/"
         - name: "LinkedIn"
           url: "https://www.linkedin.com/in/harryxcli/"
+        - name: Github
+          url: "https://github.com/HarryLi98/"
+    comments: true
+
+disqusShortname: Harry
 
 outputs:
     home:
