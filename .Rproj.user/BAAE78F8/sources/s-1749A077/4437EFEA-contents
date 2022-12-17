@@ -1,0 +1,12 @@
+---
+title: "Lichess"
+author: "Harry Li"
+date: 2022-01-25
+categories: ["R"]
+tags: ["Chess"]
+---
+
+Here's a blitz game I played
+
+<iframe src="https://lichess.org/embed/ZKC7QG3q?theme=auto&bg=auto"
+width=600 height=397 frameborder=0></iframe>

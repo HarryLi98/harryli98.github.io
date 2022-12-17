@@ -1,0 +1,40 @@
+baseURL: "https://harryli.netlify.app/"
+title: Harry Li
+theme: "hugo-PaperMod"
+languageCode: en-us
+
+menu:
+  main:
+    - name: Blog
+      url: "/blog"
+    - name: About
+      url: "/about"
+    - name: Research
+      url: "/research"
+        
+
+params:
+    profileMode:
+        enabled: true
+        subtitle: "Personal website"
+        imageUrl: "avatar.png"
+        imageTitle: "profile picture"
+        imageWidth: 250 # custom size
+        imageHeight: 250 # custom size
+        buttons:
+            - name: Blog
+              url: "/blog"
+            - name: Github
+              url: "https://github.com/HarryLi98/"
+              
+    socialIcons:
+        - name: "Instagram"
+          url: "https://www.instagram.com/harryli98/"
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/harryxcli/"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
