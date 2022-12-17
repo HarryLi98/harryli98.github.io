@@ -1,5 +1,5 @@
 ---
-title: "Chess"
+title: "Chess puzzles"
 author: "Harry Li"
 date: 2022-12-18
 tags: ["chess"]
