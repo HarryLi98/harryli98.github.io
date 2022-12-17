@@ -9,8 +9,8 @@ I joined the Bank of England in 2020 after completing my Master's in [Econometri
 
 I am currently studying part-time for a Master's in [Applied Mathematics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-mathematics/) at Imperial College London (2021 - 2023).
 
-My interests are at the intersection of mathematics, economics and machine learning. I'm particularly interested applications of deep reinforcement learning to solve economic models. 
+My interests are at the intersection of mathematics, economics and machine learning. I'm particularly interested applications of deep reinforcement learning to solve economic models.
 
-I'm a keen chess player and play for Chessable White Rose in first division of the [Four Nations Chess League](https://www.4ncl.co.uk/). I've previously been a member of the England Junior Chess Team and I represented England in the Under 16 World Youth Chess Championships in Durban, South Africa in 2014.
+I'm a keen chess player and play for Chessable White Rose in first division of the [Four Nations Chess League](https://www.4ncl.co.uk/faq.htm). I've previously been a member of the England Junior Chess Team and I represented England in the Under 16 World Youth Chess Championships in Durban, South Africa in 2014.
 
 Opinions expressed on this website are solely my own and do not express the views or opinions of my employer.
