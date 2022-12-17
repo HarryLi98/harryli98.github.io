@@ -11,7 +11,6 @@ menu:
       url: "/about"
     - name: Research
       url: "/research"
-        
 
 params:
     profileMode:
