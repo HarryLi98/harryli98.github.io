@@ -29,7 +29,7 @@ This module introduced us to dynamic stochastic general equilibrium models (DSGE
 ## Advanced Microeconomics
 We covered general equilibrium theory and models of bargaining and competition in the first half of the module, and decision making under uncertainty, auctions and moral hazard in the second half.
 
-This module was the easiest, and we never had to apply most of the theorems we learnt in the introductory course.
+This module was quite easy, and we never had to apply most of the esoteric theorems we learnt in the introductory course.
 
 ## Stochastic Processes
 This was a nice half-module that gave an introduction to stochastic processes. The main topics were Martingales, Poisson Processes, Brownian motion, stochastic differential equations and diffusion processes, with applications to finance. Having prior knowledge of measure theory was useful.
@@ -39,3 +39,7 @@ Stochastic analysis was much harder than stochastic processes! This was one of t
 
 # Recommendation
 I'd recommend doing EME if you're interested in economics research, and are interested in doing a PhD. The MSc in EME has the best international reputation for any non-US degree, and has good placements. Students from my cohort were admitted into PhD programs at top universities such as Harvard, MIT, Stanford, Berkeley, Cornell and LSE. However, I think it's important to realise that doing well in EME doesn't automatically guarantee you a place at a top PhD program. This is because there is no research element in EME. Many people initially struggled to be admitted, and spent 1-2 years working as a research assistant before being successful in their applications.
+
+# Graduation photo!
+![Graduation](/img/eme_graduation.png)
+Getting a graduation photo in front of LSE's globe is a must.
