@@ -1,0 +1,115 @@
+---
+title: "First name Chess Olympiad"
+author: "Harry Li"
+date: 2023-01-07
+tags: ["chess", "dplyr"]
+---
+
+```{r, setup, include=FALSE}
+library(tidyverse)
+library(here)
+library(knitr)
+
+knitr::opts_chunk$set(
+  echo = FALSE,
+  include = FALSE,
+  message = FALSE
+)
+```
+
+```{r}
+df <- readRDS(here("data", "names_olympiad", "2023-01.rds"))
+```
+
+```{r}
+# Get 2500+ rating players
+get_players <- function(name_regex) {
+  df %>%
+    filter(rating >= 2500) %>%
+    filter(grepl({{ name_regex }}, first_name)) %>%
+    arrange(desc(rating))
+}
+
+top_four <- function(name_regex) {
+  df %>%
+    filter(grepl({{ name_regex }}, first_name)) %>%
+    arrange(desc(rating)) %>%
+    slice(1:4) %>%
+    mutate(average_rating = mean(rating))
+}
+```
+
+```{r}
+names_regex <- c(
+  "^Alexand|^Aleksand", 
+  "^Alexe|^Alekse", 
+  "^Andrey|^Andrei|^Andriy", 
+  "^Anton", 
+  "^Bart",
+  "^Boris", 
+  "^Christopher",
+  "^Daniel|^Daniil|Danyyil", 
+  "^David", 
+  "^Denis|^Dennis",
+  "^Dmitr", 
+  "^Eri", 
+  "^Evgen", 
+  "^Francesco|^Francisco",
+  "^Greg|Grzegorz|^Grig",
+  "^Igor", 
+  "Ilya|Illya|Ilia|Ilja", 
+  "^Ivan", 
+  "^Jan|^Ian", 
+  "^Kiril",
+  "^Konstantin", 
+  "Matthew|^Matthi|Mateusz",
+  "^Maxim|^Maksim", 
+  "^Micha|^Mikh",
+  "^Nikita",
+  "^Pavel",
+  "^Peter",
+  "^Robert",
+  "^Sam",
+  "^Serge",
+  "^Viktor|^Victor",
+  "^Vladimir|^Volodymyr",
+  "^Vladislav",
+  "^Yuri",
+  "^Zoltan"
+  )
+
+names <- c("Alexander", "Alexei", "Andrey", "Anton", "Bart", "Boris", "Christopher", "Daniel", "David", "Denis", "Dmitry", "Eric", "Evgeny", "Francesco", "Grigoriy", "Igor", "Ilya", "Ivan", "Jan", "Kirill", "Konstantin", "Matthew", "Maxime", "Michael", "Nikita", "Pavel", "Peter", "Robert", "Sam", "Sergey", "Viktor", "Vladimir", "Vladislav", "Yuri", "Zoltan")
+```
+
+```{r}
+dfs <- lapply(names_regex, top_four)
+players <- lapply(names_regex, get_players)
+
+names(dfs) <- names
+names(players) <- names
+```
+
+```{r}
+merged <- bind_rows(dfs)
+
+# Keep average rating >= 2600
+merged <- merged %>%
+  arrange(desc(average_rating)) %>%
+  filter(average_rating >= 2600)
+```
+
+# Strongest Olympiad teams
+The first name chess Olympiad would comprise of teams of four, whose players have the same (or very similar) first names. Alexander, Vladimir and Jan would be the top seeds! Here's a list of potential teams with an average rating greater than 2600, using the January 2023 classical ratings.
+
+```{r, include=TRUE}
+knitr::kable(merged)
+```
+
+# Common names' players
+Here are the list of players who share a common name and have a classical rating greater than 2500.
+```{r, include=TRUE}
+knitr::kable(players)
+```
+
+# About
+The list of players can be downloaded from the FIDE website https://ratings.fide.com/download_lists.phtml. This was a quick data manipulation exercise using R and [`dplyr`](https://dplyr.tidyverse.org/). I applied personal judgement when deciding whether names are the same or not.
