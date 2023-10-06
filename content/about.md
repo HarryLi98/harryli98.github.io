@@ -1,6 +1,7 @@
 ---
 title: "About"
 url: "/about/"
+comments: false
 ---
 
 I'm a model developer at the Bank of England. 

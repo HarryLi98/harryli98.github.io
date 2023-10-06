@@ -35,9 +35,26 @@ params:
           url: "https://www.linkedin.com/in/harryxcli/"
         - name: Github
           url: "https://github.com/HarryLi98/"
-    comments: false
-
-disqusShortname: Harry
+    comments:
+      provider: giscus
+      commentable:
+        page: false
+        post: true
+        docs: false
+        project: false
+        publication: true
+        talk: false
+      giscus:
+        repo: "HarryLi98/harryli98.github.io"
+        repo_id: "R_kgDOIonjdg"
+        category: "Announcements"
+        category_id: "DIC_kwDOIonjds4CZ7AN"
+        mapping: "pathname"
+        label: "comment"
+        input_position: "top"
+        theme: "dark"
+        reactions_enabled: 1
+        data_lang: "en"
 
 outputs:
     home:
