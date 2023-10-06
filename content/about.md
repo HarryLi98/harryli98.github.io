@@ -5,9 +5,7 @@ url: "/about/"
 
 I'm a model developer at the Bank of England. 
 
-I joined the Bank of England in 2020 after completing my Master's in [Econometrics and Mathematical Economics](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Econometrics-and-Mathematical-Economics) from the London School of Economics.
-
-I am currently studying part-time for a Master's in [Applied Mathematics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-mathematics/) at Imperial College London (2021 - 2023).
+I joined the Bank of England in 2020 after completing my Master's in [Econometrics and Mathematical Economics](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Econometrics-and-Mathematical-Economics) from the London School of Economics. Additionally, I studied part-time for a Master's in [Applied Mathematics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-mathematics/) at Imperial College London (2021 - 2023).
 
 My academic interests are at the intersection of mathematics, economics and machine learning. I'm particularly interested in applications of deep learning to solve economic models.
 
