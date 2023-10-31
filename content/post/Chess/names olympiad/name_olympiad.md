@@ -17,6 +17,9 @@ tags: ["chess", "dplyr"]
 
 
 
+# Intro
+Jan Gustafsson often asks during his chess commentary: *"which name would have the strongest chess team?"* This blog answers that question!
+
 # Strongest Olympiad teams
 The first name chess Olympiad would comprise of teams of four, whose players have the same (or very similar) first names. Alexander, Vladimir and Jan would be the top seeds! Here's a list of potential teams with an average rating greater than 2600, using the January 2023 classical ratings.
 

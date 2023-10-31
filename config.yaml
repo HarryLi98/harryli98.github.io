@@ -52,7 +52,7 @@ params:
         mapping: "pathname"
         label: "comment"
         input_position: "top"
-        theme: "dark"
+        theme: "dark_dimmed"
         reactions_enabled: 1
         data_lang: "en"
 

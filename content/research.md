@@ -1,11 +1,13 @@
 ---
 title: "Research"
 url: "/research/"
-comments: false
+comments: true
 ---
 
+Master's thesis (90%):
+- [Stochastic differential equation models for systemic risk](/post/Research/Li-Harry-Thesis.pdf) *(supervised by Professor Grigorios A. Pavliotis and Dr Anastastia Borovykh)*
+
 Working papers:
-- Stochastic differential equation models for systemic risk *(with Grigorios Pavliotis and Anastastia Borovykh)*
 - Modelling life-cycle housing and non-housing demand *(with Matt Waldron)* 
 
-Publications still to come!
+Journal publications still to come!
