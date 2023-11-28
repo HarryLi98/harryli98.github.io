@@ -14,4 +14,4 @@ I'm a keen chess player and play for Chessable White Rose in first division of t
 
 Opinions expressed on this website are solely my own and do not express the views or opinions of my employer.
 
-[Download my CV](/post/About/public_CV.pdf) (last updated 28/11/2023).
+[Download my CV](/post/About/public.pdf) (last updated 28/11/2023).
