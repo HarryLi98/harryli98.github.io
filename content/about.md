@@ -13,3 +13,5 @@ My academic interests are at the intersection of mathematics, economics and mach
 I'm a keen chess player and play for Chessable White Rose in first division of the [Four Nations Chess League](https://www.4ncl.co.uk/faq.htm). I've previously been a member of the England Junior Chess Team and I represented England in the Under 16 World Youth Chess Championships in Durban, South Africa in 2014.
 
 Opinions expressed on this website are solely my own and do not express the views or opinions of my employer.
+
+[Download my CV](/post/About/public_CV.pdf) (last updated 28/11/2023).
