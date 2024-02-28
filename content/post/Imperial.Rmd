@@ -1,9 +1,9 @@
 ---
 title: "My review of the MSc Applied Mathematics at Imperial"
-subtitle: "As a part-time student"
 author: "Harry Li"
 date: 2024-02-28
 tags: ["Imperial", "Maths", "Life"]
+ShowToc: true
 ---
 
 # Introduction
