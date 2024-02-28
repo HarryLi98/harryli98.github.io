@@ -1,9 +1,13 @@
 ---
-title: "My first year at Imperial"
+title: "My review of the MSc Applied Mathematics at Imperial"
+subtitle: "As a part-time student"
 author: "Harry Li"
-date: 2022-12-22
+date: 2024-02-28
 tags: ["Imperial", "Maths", "Life"]
 ---
+
+# Introduction
+
 
 I started studying part-time for a Master's in Applied Mathematics at Imperial in October 2021, while continuing to work at 80% capacity at the Bank of England.
 

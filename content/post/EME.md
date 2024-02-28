@@ -1,12 +1,21 @@
 ---
-title: "MSc Econometrics and Mathematical Economics review"
+title: "My review of the MSc Econometrics and Mathematical Economics at LSE"
+subtitle: "Updated! (2024)"
 author: "Harry Li"
 date: 2022-12-17
 tags: ["LSE", "EME"]
 ---
 
 # Introduction
-I studied for a Master's in Econometrics and Mathematical Economics (EME) at the London School of Economics from 2019 - 2020. I knew this Master's had a reputation for being very mathematical, and that it would be an intense year. Prior to this, I graduated with an undergraduate degree in economics from the London School of Economics. In my undergraduate degree, I studied as much math as possible, which helped prepare me for the advanced level of the degree. In particular, in the third year of my undergraduate degree, I took a module on Econometric Theory (EC309) which covered a lot of similar material as in the Master's. The content for this module was roughly equivalent to the taught material from the first year of a well-respected PhD program in Economics. Needless to say, this was far too difficult for me as an undergrad, and I did badly in my final exam, but it did well to prepare me for the advanced level of the econometrics module in EME.
+I studied for a Master's in Econometrics and Mathematical Economics (EME) at the London School of Economics from 2019 - 2020. Prior to starting the Master's, I knew from speaking with other students and professors that this Master's had a reputation for being very technical, and that it would be an intense year. Indeed, [LSE's official page](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2024/MSc-Econometrics-and-Mathematical-Economics) for the program reads
+
+> The MSc Econometrics and Mathematical Economics is a technically rigorous programme designed to meet the needs of those who have a strong quantitative background wishing to study economics. It is aimed at mathematicians, statisticians, physical scientists and engineers, as well as graduate economists.
+
+> The technical level of the material covered is perhaps higher than for any other master's degree in the area, and the programme has a long-standing international reputation, with many distinguished economists and econometricians among its graduates.
+
+I find it funny that the program is described as being primarily aimed for those with a quantitative background, and not necessarily economics! In my cohort (of around 40 people), we had students with undergraduate degrees in maths, engineering, computer science, management, but the majority of students still had studied economics.
+
+I had an economics background, having studied my bachelors in economics from the London School of Economics. In my undergraduate degree, I studied as much maths as possible, which helped prepare me for the advanced level of the degree. In particular, in the third year of my undergraduate degree, I took a module on [Econometric Theory (EC309)](https://www.lse.ac.uk/resources/calendar2018-2019/courseGuides/EC/2018_EC309.htm) which covered a lot of similar material as in the Master's. The content for this module was roughly equivalent to the taught material from the first year of a well-respected PhD program in Economics. Needless to say, this was far too difficult for me as an undergrad, and I did badly in my final exam, but it did well to prepare me for the advanced level of the econometrics module in EME.
 
 # Introductory course
 The Master's started in August with a three week introductory course, where we covered the essential foundations for Microeconomics, Macroeconomics and Econometrics, spending one week on each discipline. The first lecture for Microeconomics was a review of real analysis; properties of open and closed sets, limits, and continuous functions, topics that we never saw again in the subsequent Microeconomics modules. The schedule for the first three weeks was intense, with lectures and problem sets every day. We had a test at the end of the three weeks, and if you scored below 60 in two of the three modules, they recommended that you transfer to the MSc in Economics, which a few students did. 
@@ -36,6 +45,14 @@ This was a nice half-module that gave an introduction to stochastic processes. T
 
 ## Stochastic Analysis
 Stochastic analysis was much harder than stochastic processes! This was one of the most difficult modules I studied in my four years at LSE. The module covered (long) proofs of the existence of Brownian motion and its properties. Then we rigorously covered Ito's formula, the Ito integral and strong and weak solutions to stochastic differential equations. Prior knowledge of stochastic processes, measure theory, functional analysis and partial differential equations (PDEs) were useful for this course. Unfortunately, I never studied PDEs or functional analysis, which may be why I struggled!
+
+# Social Life
+Most students would study for most of their waking time, so the social life during EME wasn't the best. Nevertheless, as a relatively small cohort taking the majority of classes together, you can become close together, bonding through mutual suffering. On some Friday nights, we would go for a late-night pizza after studying all day in 32 Lincoln's Inn Fields. The department also organises some events during Christmas and Easter, which are good for meeting students from other programs. I was active in LSE's chess society and had friends there from undergraduate with whom I could play blitz with, which gave me some welcome breaks from studying.
+
+# Student satisfaction
+My general impression was that at LSE, the Economics department did not really care much about you, and the culture was sink or swim. If you were struggling to cope, the course director would recommend that you switch to the MSc in Economics to have an easier life. At LSE, you were randomly assigned a personal tutor. These personal tutors were either faculty or PhD students from the economics department. I was assigned to a new assistant professor. I only met with them once at the start of the academic year, and they were unable to help me with anything as they were totally new. They never reached out again after that initial meeting, and I felt that I was unable to go to them for help, so it was not a useful relationship. There was also an MSc Tutor with whom you could book appointments to talk about anything, typically PhD applications. These were typically fully booked so I also never managed to speak to them. 
+
+On the academic front, I felt largely on my own during this Masters. The quality of teaching varied quite a bit. Some lecturers provided nice lecture notes, problem sets and solutions, while others provided nothing. You could attend office hours, but some professors or teaching assistants were really not that helpful in explaining concepts. However, some of them were great, and I'm very grateful for their help!
 
 # Recommendation
 I'd recommend doing EME if you're interested in economics research, and are interested in doing a PhD. The MSc in EME has the best international reputation for any non-US degree, and has good placements. Students from my cohort were admitted into PhD programs at top universities such as Harvard, MIT, Stanford, Berkeley, Cornell and LSE. However, I think it's important to realise that doing well in EME doesn't automatically guarantee you a place at a top PhD program. This is because there is no research element in EME. Many people initially struggled to be admitted, and spent 1-2 years working as a research assistant before being successful in their applications.
