@@ -1,0 +1,126 @@
+---
+title: "Reykjavík Open 2024"
+author: "Harry Li"
+date: 2024-03-25
+tags: ["chess"]
+ShowToc: true
+---
+
+# Introduction
+I participated in the Reykjavík Open 2024 from the 14th March to the 21st March. The Reykjavík Open is an annual chess tournament that takes places in Reykjavík, Iceland. The first edition was held in 1964, and since its inception, it has attracted top players such as the 8th world chess champion [Mikhail Tal](https://en.wikipedia.org/wiki/Mikhail_Tal), and among the current top players, five-time world chess champion [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen), [Fabiano Caruana](https://en.wikipedia.org/wiki/Fabiano_Caruana), [Wesley So](https://en.wikipedia.org/wiki/Wesley_So), [Anish Giri](https://en.wikipedia.org/wiki/Anish_Giri), [Rameshbabu Praggnanandhaa](https://en.wikipedia.org/wiki/R_Praggnanandhaa), and many more.
+
+This was the first international chess competition that I played in in almost 10 years. The last time I competed internationally was when I represented England in the Under 16s section of the World Youth Chess Championship in Durban, South Africa in 2014. I've always enjoyed competing internationally since you get to meet and play against people from all over the world, and this tournament was no exception.
+
+# Participants
+For this tournament, there were around 400 entrants from 49 different countries. The Reykjavík Open usually attracts some of the best chess players in the world, including many grandmasters (abbreviated GM) and international masters (abbreviated IM). This year, the top seed for the tournament was [GM Bogdan-Daniel Deac](https://en.wikipedia.org/wiki/Bogdan-Daniel_Deac), a 22 year old chess grandmaster from Romania, who is currently rank number two nationally and rank 44 in the world. The number two seed was the legendary [GM Vasyl Ivanchuk](https://en.wikipedia.org/wiki/Vasyl_Ivanchuk) from Ukraine, who has won the world rapid and blitz championships and was former world number two in classical chess (only behind renown former world chess champion [GM Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov)). At the opening party, I gathered the courage to challenge Ivanchuk to two blitz games, and managed to draw them both - a very memorable experience. Let me know in the comments section if you want to see the games!
+
+This year's Reykjavík Open also had generous women's prizes, which attracted some of the top women players to compete. Six of top 50 women's players participated. The top women's seed was the 21-year old [GM Zhu Jiner](https://en.wikipedia.org/wiki/Zhu_Jiner) from China. Other top women players included [IM Nurgyul Salimova](https://en.wikipedia.org/wiki/Nurgyul_Salimova) (best woman chess player in Bulgaria, who will be competing in the FIDE Candidates tournament in April 2024 - an eight-player chess tournament, held to determine the challenger for the World Chess Championship 2024), [IM Gunay Mammadzada](https://en.wikipedia.org/wiki/Gunay_Mammadzada) (best woman chess player in Azerbaijan), [IM Teodora Injac](https://en.wikipedia.org/wiki/Teodora_Injac) (best women chess player in Serbia) and renown chess commentator [IM Tania Sachdev](https://en.wikipedia.org/wiki/Tania_Sachdev) from India.
+
+Additionally, there were nine well-known chess content creators participating, who live-streamed each of their games to large audiences on Twitch and YouTube, as well as posting  recap videos of their games to YouTube. These streamers were [Anna Cramling](https://www.youtube.com/@AnnaCramling), [Alexandra and Andrea Botez](https://www.youtube.com/@BotezLive), [Dina Belenkaya](https://www.youtube.com/@DinaBelenkaya), [Zachary Saine](https://www.youtube.com/@thechessnerd), [Alexandra Prado](https://www.youtube.com/@AlexandrachessYT), [Anna-Maja Kazarian](https://www.youtube.com/@AnnaMajaOfficial) and [Tallulah Roberts](https://www.youtube.com/@lularobs/). This drastically increased the publicity of the tournament, with tens of thousands of viewers watching these live-streams and hundreds of thousands of viewers watching daily recap videos of their games.
+
+Coming into this tournament, my rating was 2107 and I was seeded number 107. I had no expectations for doing well, but just wished to play some good chess. It was a pleasure to play in a tournament featuring such top players! You can find the full list of participants [here](https://chess-results.com/tnr792656.aspx?lan=1&art=0&turdet=YES&flag=30).
+
+# Venue
+The tournament was held in the Harpa Concert Hall in Reykjavík, Iceland. In my opinion, this was the best venue I have ever played a tournament in. The concert hall is beautifully designed and located by the sea, with a clear view of Iceland's mountains.
+
+![Harpa](/img/reykjavik24/harpa_outside.jpg)
+
+The tournament hall was located inside the concert hall on the ground floor. It was spacious and we had a nice view of the sea while playing.
+
+![Harpa Tournament Hall](/img/reykjavik24/harpa_tournament_hall.jpg)
+
+There was a "streamer's corner" where the chess content creators live-streamed their games to Twitch and YouTube, with online commentary to tens of thousands of viewers. The streamer's and the top players also play on DGT boards, which broadcast the moves online to [chess.com](https://www.chess.com/events/2024-reykjavik-open) and [lichess.org](https://lichess.org/broadcast/reykjavik-open-2024/round-9/qsQgiYY7) for the chess world to follow (with a 15 minute delay for anti-cheating measures).
+
+![Harpa Streamer Corner](/img/reykjavik24/harpa_streamer.jpg)
+
+Other nice things about the venue/organisation were that they had a reception where you could leave your bags or mobile phone, and also the tournament was sponsored by an Icelandic water company so you could get free bottled water while playing. They also gave out nice pens to record your moves, so you didn't need to bring anything to the game - ideal for forgetful chess players!
+
+# Iceland
+Iceland was very cold! I was warned that Icelandic weather is unpredictable, but actually it was fairly predictable if your expectations are cold, windy, with rain/snow. 
+
+On the second day of the tournament, [a volcano erupted prematurely](https://www.bbc.co.uk/news/world-europe-68589594) which triggered a state of emergency in southern Iceland. Fortunately, the eruption was far from Reykjavík and didn't affect our tournament in any way. I was still playing round 3 when this happened, and did not realise there was volcano activity until I walked home and saw that the sky was red.
+
+![Volcano Sky](/img/reykjavik24/volcano_sky.jpg)
+
+## Accommodation
+I travelled with two friends and we stayed in a really nice AirBnB about 30 minutes walk from the playing venue. This worked out cheaper than staying in the official hotels, and our AirBnB flat was really great with a large communal area, and even had a piano which I could practice on. Also I feel that forcing myself to walk for at least an hour every day was a good thing.
+
+## Touristy stuff
+During the tournament, we didn't have much time to explore Iceland. However, we stayed an extra day after the tournament. We decided not to do the famous golden circle tours, which in retrospect was good since one of the main attractions - the Blue Lagoon - closed due to the volcano eruption. Instead, we went to Sky Lagoon - a geothermal spa near Reykjavík which was nice. We also hiked back home through the countryside.
+
+![Countryside](/img/reykjavik24/countryside.jpg)
+## Food
+I discovered that Iceland is a very expensive country. We usually bought lunch from [Krónan](https://www.google.com/maps/place/Kr%C3%B3nan/@64.146662,-21.9510465,14z/data=!4m10!1m2!2m1!1za3LDs25hbg!3m6!1s0x48d60bbf767d2b0d:0xd14199641a6738e8!8m2!3d64.1455951!4d-21.9342089!15sCgdrcsOzbmFuIgOIAQFaCSIHa3LDs25hbpIBC3N1cGVybWFya2V04AEA!16s%2Fg%2F11lr5sm5tr?entry=ttu) - a supermarket on the way to the venue. For dinner, we would usually eat out. My favourite place was [Icelandic Street Food](https://www.icelandicfoods.com/), which offered lamb meat soup or spicy tomato soup with bread, with unlimited refills (of soup and bread), and free waffles. Fantastic value for money, especially for Iceland!
+
+# Chess
+Finally onto the tournament itself.
+
+The tournament is a [swiss-system](https://en.wikipedia.org/wiki/Swiss-system_tournament) with nine rounds, with accelerated pairings. The time control was 90 minutes for 40 moves, after which players get an additional 30 minutes, including a 30 second increment per move from move one. The accelerated pairings meant that the pairings in the first half of the tournament would be extra difficult for me! 
+
+## Round 1
+In round one, I faced Turkish grandmaster [GM Emre Can](https://en.wikipedia.org/wiki/Emre_Can_(chess_player)) - rated 2551 and seeded number nine in the tournament. I had some chances from the opening but misplayed and eventually lost.
+
+![Thinking](/img/reykjavik24/thinking_pose.jpg)
+Me struggling in round 1 - photo taken by [Hallfríður Sigurðardóttir](https://flickr.com/photos/hallasig/albums/)
+
+<!-- {{< rawhtml >}} -->
+<!-- <div> -->
+<!-- <iframe width=700 height=450 src="https://lichess.org/study/embed/wLVu7CRA/545Th2hc" frameborder=0></iframe> -->
+<!-- </div> -->
+<!-- {{< /rawhtml >}} -->
+
+## Rounds 2 and 3
+Day two was a double-round day. Round two started at 9am. I had black against a lower rated English opponent (rated 1894) and managed to win a complicated game after about five hours of play.
+
+<!-- {{< rawhtml >}} -->
+<!-- <div> -->
+<!-- <iframe width=700 height=450 src="https://lichess.org/study/embed/wLVu7CRA/x3CT9wLl" frameborder=0></iframe> -->
+<!-- </div> -->
+<!-- {{< /rawhtml >}} -->
+
+In round three, I had white against a lower rated opponent from Norway (rated 1945). He played a similar opening to my game against Emre Can in round 1, so I was better prepared. Nevertheless, I forgot what to do after 10 moves and ended up in an equal position after the opening. Luckily, I managed to outplay him in time trouble and after more than five hours of play, I managed to win to move to 2/3 points (I think we were both exhausted at the end - I had played more than 10 hours of chess that day).
+
+## Round 4
+In round four, I faced Icelandic Grandmaster [GM Johann Hjartarson](https://en.wikipedia.org/wiki/J%C3%B3hann_Hjartarson), rated 2460. However, his peak rating was 2640 and according to his Wikipedia page, he was the highest-rated Icelandic player from July 1991 to March 2015. I tried surprising my opponent in the opening by playing the Archangel Defence of the Ruy Lopez (deviating from what I usually play). While the opening wasn't a disaster, I confused my preparation and went badly wrong shortly after the opening and got checkmated quickly.
+
+<!-- {{< rawhtml >}} -->
+<!-- <div> -->
+<!-- <iframe width=700 height=450 src="https://lichess.org/study/embed/wLVu7CRA/StZTWTxF#0" frameborder=0></iframe> -->
+<!-- </div> -->
+<!-- {{< /rawhtml >}} -->
+
+## Rounds 5 and 6
+Day four was another double-round day. In round 5, I had white against a lower rated opponent from Germany (rated 1906). Funnily enough, he played the same opening - the accelerated dragon - as my games in rounds 1 and 3. Surely then, I must have been fully prepared in the opening right?? Wrong. I planned to review my analysis of this particular opening line on my phone on the walk to the venue, but forgot to transfer my analysis from my laptop to my phone... Again, I was not better from the opening, but I think that I managed to play well after that and outplayed my opponent and won.
+
+In round 6, I had black against a lower rated opponent from Sweden (rated 1780). However, he was clearly underrated and my opening preparation failed me again... Nevertheless, I found an interesting idea involving a piece sacrifice on move 17 (mainly out of desperation) and managed to win a nice attacking game to move to 4/6 points.
+
+{{< rawhtml >}}
+<div>
+<iframe width=700 height=450 src="https://lichess.org/study/embed/wLVu7CRA/7LqIJ4Cj" frameborder=0></iframe>
+</div>
+{{< /rawhtml >}}
+
+## Round 7
+In round 7, I was paired against IM Benjamin Haldorsen from Norway, rated 2423. He surprised me in the opening by playing the Caro-Kann - something I hadn't seen him play before. Given this, I decided to deviate on move three from what I normally do by playing the advance variation. I think we were both on our own from move 8, and I ended up worse shortly after the opening. Fortunately, he made some uncharacteristic mistakes and I got a very nice position. He was in some time trouble and blundered on move 27 and I found a nice knight sacrifice that gave me a completely winning position, and I won shortly after without much trouble and moved onto 5/7.
+
+{{< rawhtml >}}
+<div>
+<iframe width=700 height=450 src="https://lichess.org/study/embed/wLVu7CRA/HelGbRVH#54" frameborder=0></iframe>
+</div>
+{{< /rawhtml >}}
+
+## Round 8
+In round 8, I had black against IM Alexander Katz from the USA, rated 2418. He won the blitz tournament with 9/9 earlier on in the event, ahead of other grandmasters, so I assumed he was underrated. He played a Spanish opening and I decided to deviate from my round 3 game by playing the Marshall defense. I got a decent position from the opening, but misunderstood the resulting isolated queen's pawn position and got crushed with some nice tactics from my opponent.
+
+## Round 9
+In the final round, I had white against a lower rated opponent from India (rated 1831). Despite being lower rated, I noticed that he had some good results in previous rounds, and generally I find that Indian players are underrated, so I still took this game seriously. I managed to land most of my opening preparation (perhaps the only time in this tournament) to reach a pleasant endgame, and my opponent got into time trouble and played several inaccurate moves that allowed me to win without much trouble.
+
+Let me know in the comments section if you want me to annotate more of my games, and I will make a separate blog post!
+
+# Result
+Overall, I finished with 6/9 points, finishing in 45th place. I also gained +32.4 rating points. I'm pleased with this result as the competition was very strong and I feel like I played some good chess. I also won a rating prize - second place for players rated between 2001 and 2200, and was awarded €150. You can find a full breakdown of my results [here](https://chess-results.com/tnr792656.aspx?lan=1&art=9&fedb=ENG&fed=ENG&turdet=YES&flag=30&snr=107).
+
+![Prize Giving](/img/reykjavik24/prize-giving.jpg)
+Prize giving - photo taken by Ludwig DeLarge
+
+Overall, playing in Reykjavík was a great experience and I hope to play again in a future edition of the tournament.
