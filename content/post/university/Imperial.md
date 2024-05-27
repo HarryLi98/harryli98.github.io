@@ -1,43 +1,188 @@
 ---
-title: "My review of the MSc Applied Mathematics at Imperial"
+title: "My review of the MSc Applied Mathematics at Imperial (as a part-time student)"
 author: "Harry Li"
-date: 2024-02-28
-tags: ["Imperial", "Maths", "Life"]
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    toc_collapsed: true
-    toc_depth: 3
+date: 2024-05-25
+bibliography: references.bib
+tags: ["Imperial", "Maths", "Life", "University"]
+ShowToc: true
+math: true
 ---
 
 # Introduction
 
-
-I started studying part-time for a Master's in Applied Mathematics at Imperial in October 2021, while continuing to work at 80% capacity at the Bank of England.
+I studied for a part-time Master’s in Applied Mathematics at Imperial from October 2021 to October 2023, while continuing to work at 80% capacity at the Bank of England. In this blog, I’ll write about my personal experience studying this Master’s part-time. I hope this is useful for prospective part-time students - I know that when I was applying, I struggled to find anyone’s personal experiences and would have found it useful to hear about.
 
 # Motivation
-I had only recently graduated from a Master's in Econometrics and Mathematical Economics from The London School of Economics in summer 2020, and doing another Master's was the last thing on my mind. However, the Bank encourages new graduates to en-roll in some part-time study program, which they support by providing some study leave. I've always enjoyed studying maths, and saw this as an opportunity to improve my technical skills. I wanted to learn about partial differential equations and machine learning in order to apply these skills to solve problems in economics.
 
-Therefore, it was great when I learnt that Imperial offers students to study for a postgraduate degree in Maths part-time. Imperial was my top choice as it has an excellent maths department, is based in London, and was one of the only universities which accommodated part-time study. Thankfully they accepted my application, despite me not meeting their entry requirements of an undergraduate degree in maths, physics or engineering.
+I had only recently graduated from a Master’s in Econometrics and Mathematical Economics from The London School of Economics in summer 2020, and doing another Master’s was the last thing on my mind. After my Master’s at LSE, I joined the Bank of England on the graduate scheme in September 2020. There, I learnt that the Bank encourages new graduates to en-roll in some part-time study program, which they support by providing some study leave. I’ve always enjoyed studying maths, and saw this as an opportunity to improve my technical skills. In particular, I wanted to learn more about partial differential equations and machine learning in order to apply these skills to solve problems in economics.
 
-I must admit I was initially apprehensive about enrolling for this Master's. Some of my friends studied maths at Imperial and warned me that the workload was intense. I wasn't sure if I would be able to juggle a part-time Master's while still working full-time four days a week. Furthermore, I was worried that I would struggle to understand lectures as I didn't have an undergraduate degree in maths.
+I quickly settled on studying at Imperial as it has an excellent maths department, is based in London, and was one of the only universities which offered part-time study. The admissions requirements mentioned needing a 2:1 degree in mathematics, physics or engineering, which I didn’t have (although I had studied a fair amount of Maths at LSE). Still, I applied and thankfully they accepted my application - they just asked for evidence that I obtained a distinction in my Master’s at LSE.
 
-My first year at Imperial was mixed. There wasn't much of an induction and lectures started in the first week. In the first term, I studied Introduction to Partial Differential Equations and Dynamics of Learning and Iterated Games. 
+I must admit I was initially apprehensive about enrolling for this Master’s. Some of my friends studied maths at Imperial and warned me that the workload was intense. I worried that I would struggle to understand lectures as I didn’t have an undergraduate degree in maths. The part-time Master’s at Imperial is also different to other part-time Master’s that were offered at the Bank. These other part-time Master’s degrees typically had classes online on one dedicated day a week, and you could study in your own time - typically requiring a commitment of about 6 hours a week. This part-time Master’s at Imperial is different because it’s like a normal full-time Master’s, except you study half the number of modules each year. The disadvantage in this is that you will likely have lectures or classes on multiple days of the week, and you still need to commute to campus for these. I wasn’t sure if I would be able to juggle this part-time Master’s while still working a full-time job - in particular I was apprehensive about the workload and also the logistics in commuting between work, home and the office. I ended up commuting between campus and the office during my lunch breaks, staying on campus for the morning or afternoon if I had any lectures or classes. Thankfully I am able to work flexible hours and remotely, which really helped me. The time commitment is also much more - requiring around **22 hours per week** (6 hours of contact time per term, and 16 hours for problem sets, coursework, revision, and working on the thesis).
 
-COVID meant that Imperial adopted a hybrid teaching style, which meant that lectures were pre-recorded to be watched on-line in your own time, and classes were hybrid, meaning that you could attend in-person or dial-in on Teams. The way it worked was that lecturers released weekly recordings, which were to be watched before the classes. All of the modules used the same lecture recordings they made during the 2020 academic year. I must admit it felt a bit like learning from YouTube. Some lecture recordings were low quality, as they re-used recordings from pre-COVID where the white board the lecturer was writing on was barely visible. Often, the lecturer and class teacher were different, with the lecturer being MIA for the term, making it more difficult to ask questions.
+There was also the issue of COVID. Imperial adopted a hybrid teaching style for my first year, which meant that lectures were pre-recorded to be watched on-line in your own time, and classes were hybrid, meaning that you could attend in-person or dial-in on Teams. The way it worked was that lecturers released weekly recordings, which were to be watched before the classes. All of the modules used the same lecture recordings they made during the 2020 academic year. I must admit it felt a bit like learning from YouTube. Some lecture recordings were low quality, as they re-used recordings from pre-COVID where the white board the lecturer was writing on was barely visible. Often, the lecturer and class teacher were different, with the lecturer not being available for the term, making it more difficult to ask questions.
+
+# Structure of the Master’s
 
 ## Modules
 
-### Theory of Partial Differential Equations
+To complete the Masters, we had to study eight modules and complete the Applied Mathematics Research Project (thesis). These eight modules could be freely chosen from a list of modules from the Applied Mathematics options list. This list is quite extensive and covers a wide range of topics in applied mathematics, including applied and stochastic analysis, analytical methods, numerical analysis and scientific computation, fluid dynamics, mathematical physics, bio-mathematics, data and optimisation methods, and more. Students also have some flexibility to choose up to two modules from outside this list, subject to approval from the course director. Modules from Pure Mathematics could be chosen without any need for approval. There were also a few modules that you could choose from the Statistics or Computer Science departments, but these would need approval from the course director.
 
-### Dynamics of Learning and Iterated Games
-No prior knowledge was really needed for this module.
+Almost all of these modules are also offered to third year undergraduate students or students on the final year of the integrated Masters (MSci). For each module, there is also a *Mastery* component to be completed by only 4th year students or Master’s students. The Mastery component is an additional question in the exam worth 20% of the grade. The material is often an extra chapter in a textbook, to be self-taught be the student. I found it difficult to study for the mastery section for each module, since you had to learn the material yourself and come up with your own practice questions, as you couldn’t rely on past papers (the mastery topic often changes every year).
 
-### Methods for Data Science
-Personally I really enjoyed how this module integrated machine learning theory with its implementation in Python. We covered all the classical machine learning methods like Ridge and Lasso regression, Random Forests, Support Vector Machines, but also deep neural networks and its implementation in TensorFlow. This module was fully coursework assessed. The algorithms from scratch in Python, which gave me a deeper understanding.
+Overall, the modules count towards two thirds of your final grade. The remaining one third is from the Applied Mathematics Research Project.
 
-Prior knowledge of multivariate calculus were useful for this module.
+## Applied Mathematics Research Project
 
-### Introduction to Statistical Learning
-This module covered more of the theory behind machine learning.
+The Applied Mathematics Research Project is a substantial research project, where you work alongside your supervisor and work on some state-of-the-art problems in applied mathematics. Professors in the Maths department collate a list of interesting research projects, and this is sent to students around December. Students need to choose a research topic that they find interesting from this list, and then contact professors individually to get them accepted as supervisors. This is done on a first-come-first-serve basis, so you are not guaranteed to get to work on the research topic you find most interesting. For example, every year there are usually a small number of research projects on data-science, but these are highly demanded and disappear very quickly.
+
+Scoring well in the research project is very important, because it counts for one third of your degree, and if you want a distinction overall, you need to get an average grade of 70+ across all modules and the research project, **and** the grade for the research project has to be a distinction.
+
+# Work-life balance & social life
+
+The guidelines for the Master’s states that the indicative total study time is **2250 hours over the entire MSc programme** (including the summer), this being composed of roughly 1500 hours associated with modules and 750 hours with the research project.
+
+Let’s do some basic math:
+
+For a part-time student, this equates to **1125 hours per year**, which assuming you study 51 weeks a year (generously taking one week off in the year for special occasions like Christmas, New Year etc.), equates to approximately studying on average for **22 hours per week, over two years**. Then, assuming you work at 80% capacity at a standard 9am-5pm job, this means you work around 28 hours per week for your job. Combining work and study, this means you need to average around **50 hours per week** between work and study. And this does not include things like commute time, which can easily add more hours to the week (I was regularly commuting for two hours to attend a one hour lecture…).
+
+My social life decreased quite a lot during this Master’s too. As a part-time student, I also felt that it’s more difficult to make friends on the Master’s program naturally, because I didn’t have time to attend any social events, and after lectures, I had to get back to normal work, so I didn’t have time to socialise with my peers. There was a significant opportunity cost in doing the Master’s. I had to sacrifice attending a lot of social events, and I also didn’t have time to go on holiday over the two years. I used almost all of my annual leave allowance to give myself extra time to do assessed courseworks and to revise for the exams. The workload at Imperial was intense, and I spent most of my life over these two years juggling work and studies. I enjoy studying maths and I feel like I learnt a lot, so it was worth it, but if you are thinking of doing this Masters part-time, keep in mind that it is a significant time commitment.
+
+# My Modules
+
+As a part-time student, I had to study two modules per term. Since I had an economics background, I was not really interested in mathematical physics or biology, which narrowed down the list of modules I was interested in studying. Still, there was enough options for me to study eight modules that I found interesting. One important thing when choosing modules was to note the asssesment format for each module. A small number of modules are assessed as 100% coursework, whereas others are exam based, typically assessed as 10% coursework and 90% exam. These 100% coursework modules are completed during the term. The benefit of choosing coursework modules is that you don’t need to do an exam. However, they can be extremely time consuming, so **I strongly recommend that you do not to choose more than one coursework module per term**.
+
+I’ll talk a bit about my experience studying for each of my modules.
+
+## Theory of Partial Differential Equations
+
+**Lecturer:** Michele Coti Zelati (pre-recorded lectures), Michele Dolce
+
+Coming from a non-maths background, I found this course quite challenging. Almost all of the content was new to me and I didn’t have some prerequisite knowledge such as advanced Calculus that would have surely been helpful. Still, it was a useful course for me to get introduced to partial differential equations. We studied common partial differential equations such as first order equations, the diffusion equation, the wave equation and the Laplace equation. The reference textbook for this module was Salsa (2016).
+
+**Final Score:** 89.29
+
+## Dynamics of Learning and Iterated Games
+
+**Lecturer:** Sebastian van Strien
+
+No prior knowledge was really needed for this module. Despite having studied game theory quite extensively in economics, a lot of the content in this module was new to me, as it focussed more on evolutionary game theory, which is an application of game theory to evolving populations in biology. Evolutionary game theory differs from classical game theory as it focusses more on the dynamics of strategy change.
+
+**Final Score:** 72.55
+
+## Methods for Data Science
+
+**Lecturers:** Mauricio Barahona, Barbara Bravi
+
+Personally I really enjoyed how this module integrated machine learning theory with its implementation in Python. We covered all the classical machine learning methods like Ridge and Lasso regression, Random Forests, Support Vector Machines, but also deep neural networks and its implementation in TensorFlow. This module was fully coursework assessed. In our coursework, we had to implement common Machine Learning methods from scratch in Python, such as Random Forests and Feed-forward Neural Networks, which gave me a deeper understanding of how these methods work. There were two pieces of coursework for this module and they took me a very long time to complete - about a week each when working on it full-time (I took two weeks holiday from my job in order to complete these courseworks).
+
+The Maths in this module was not that difficult and didn’t need much prior knowledge.
+
+**Final Score:** 94.72
+
+## Introduction to Statistical Learning
+
+**Lecturers:** Guy Nason (pre-recorded lectures), Elena Hernández-Hernández
+
+This module focussed more on the theory behind machine learning, whereas the Methods for Data Science module covered some theory, but focussed more on the implementation. I felt that this module was a useful complement to the Methods for Data Science module, as I got a better theoretical understanding of the machine learning methods work. The maths in this module was also not that difficult and didn’t need much prior knowledge.
+
+**Final Score:** 78.31
+
+## Function Spaces and Applications
+
+**Lecturer:** Pierre Germain
+
+I studied this module because I was interested in functional analysis, and also because it was a prerequisite for studying another module - Advanced Topics in Partial Differential Equations. We covered Banach spaces and compactness in Banach spaces, `\(C^{k}\)` spaces, `\(L^{p}\)` spaces and continuous linear maps in `\(L^{p}\)` and finally Hilbert Spaces. I’ve always really enjoy Analysis, so I found this module fun! Pierre also explained things very well. My only criticism with this module was that there were no lecture notes, which made revising more difficult. I used (Sasane 2017) as a reference book when revising, which I found very helpful.
+
+**Final Score: 71.80**
+
+## Advanced Topics in Partial Differential Equations
+
+**Lecturer:** Anna Kostianko
+
+This module was a complete nightmare for me! We had a new lecturer and new syllabus which didn’t follow any reference textbook. The closest textbook we could use was Brezis (2010), but this was too difficult for me to understand. The only pre-requisite course for this module was Function Spaces and Applications, but I think having some knowledge of Partial Differential Equations was also helpful. Still, this module used results from Functional Analysis that were not covered in Function Spaces and Applications, so I struggled with the content.
+
+Initially we also didn’t have any lecture notes, problem sets or problem set solutions, which only came later on. This module also differed from other modules in that we had three hours of lectures every week, without any problem solving classes. This meant that there was so much content to learn, without any chance to practice it - and each lecture required knowledge from previous lectures, which made it just impossible to follow, particularly since we didn’t have any notes. Most of us were trying to copy the lecturer’s scribbles on the white board during the lecture. Eventually we were given some handwritten notes, which I tried transcribing into LaTeX for the class, which can be found on my [GitHub page](https://github.com/HarryLi98/Advanced-PDE-Notes/blob/main/Advanced%20PDE%20Lecture%20Notes.pdf). It was much more time consuming to transcribe the notes than I imagined (especially trying to already balance all my studies with a full-time job…), so I didn’t manage to transcribe all the lectures. Still, I think I did a good job transcribing almost 30 pages of notes, and hope that someone finds my transcribed notes useful. On the plus side, I learnt a lot about how to write notes in LaTeX efficiently, and I will share my guidance in a future blog!
+
+Content-wise, it really felt like this was an Advanced Functional Analysis class rather than Partial Differential Equations. We covered the theory of distributions, Sobolev spaces, and properties for linear elliptic, linear evolutionary and semilinear parabolic equations, such as methods for proving the existence and uniqueness of solutions, *a priori* estimates, and properties of solutions.
+
+I really thought I would fail this module despite putting in a lot of effort. Thankfully the final exam was easy and similar to the problem sets, so I was able to score well.
+
+**Final Score:** 90.46
+
+## Mathematical Finance: An Introduction to Option Pricing
+
+**Lecturer:** Pietro Siorpaes
+
+This was an interesting module that focussed on the intuition of option pricing. The whole content is presented in a mathematically friendly way, which limited the amount of prerequisite knowledge required. The models were presented in discrete time, so we didn’t need knowledge of stochastic calculus or measure theory. Initially I was disappointed in this, since I had already studied stochastic calculus and measure theory at LSE, which I enjoyed, but it probably was a good idea to simplify the maths and focus more on the intuition of Option Pricing. Overall, I felt that the content wasn’t that difficult and I enjoyed studying this module, although the final exam was ridiculously difficult!
+
+**Final Score:** 79.00
+
+## Optimisation
+
+**Lecturer:** Dante Kalise
+
+This module was straightforward. To be honest I chose this module because I thought it would be easy (and it was), so I would have more time to focus on my thesis. This module focussed on optimisation for differentiable functions, using methods like gradient descent. The mastery material was on Optimal Control, which was new to me and I found that interesting.
+
+**Final Score:** 80.63
+
+# Applied Mathematics Research Project
+
+**Supervisors:** Professor Grigorios A. Pavliotis, Dr. Anastasia Borovykh
+
+Initially I had difficulty finding a suitable research topic. The list of research projects are comprised of topics that the professors at Imperial are interested in working on, and as a result, I found that they were lots of topics on mathematical physics and biology, but there were no topics on mathematics applied to economics. Given this, I felt that there were very few projects that I was interested in. The project that looked most interesting to me was on “Time-optimal control of agent-based dynamics” by Professor Dante Kalise and Professor Grigorios A. Pavliotis, which would have studied the synthesis of control laws for agent-based models arising in large animal populations and swarm robotics. However, this was taken almost immediately (I contacted Professor Kalise on the day the list of research projects was released and he said it was already assigned to another student…). I ended up explaining my situation with Professor Pavliotis, stating my interest in maths applied to economics, and he said he was also interested in this, and we ended up working on my thesis on “Stochastic Differential Equation Models for Systemic Risk”. Later in Summer 2022, Dr. Borovykh joined as my secondary supervisor.
+
+I started working on my project from Spring Term in 2022, initially doing literature reviews and thinking about what models I would develop. I would meet my supervisor fortnightly and update them on research papers that I read and any modelling updates I had. Professor Pavliotis would give me useful guidance on which papers to read and what directions to look further in. During exam period around May, I would shift my focus to revision, and then during Summer, I would focus on the research project again. As a part-time student, I had two summers to complete the thesis, which was definitely helpful (although I was back to 100% capacity in my normal job over summer). Some points of reflection I have are:
+
+- It’s better to work on the project consistently from the start, rather than short bursts. You’ll ponder more about the project naturally, giving you more time to find breakthrough ideas. You’ll probably stress less too since you’ve kept up working on it.
+- Take notes during your literature reviews. I usually downloaded the research papers and annotated them.
+- Take notes each time you meet with your supervisor. Note down what you discussed, and what the next steps are. I kept a OneNote for all my meetings, and found it useful to go back and read.
+- It takes a really long time to write up the thesis! I completed most of my analysis a month before starting to write up the thesis, and spent almost a month writing up everything. I’m not a great writer, so I spent lots of time on:
+  - thinking about how to structure my thesis
+  - how to explain topics that I know (harder than I imagined)
+  - formatting charts
+  - formatting diagrams (I wanted high-quality diagrams so learnt TikZ)
+  - formatting math
+
+Also when writing up my thesis, I realised that I had some gaps in my analysis, which I had to go back and fill. Overall my thesis was about 20,000 words. We also had to design a research poster for a summer research fair. Although this wasn’t assessed, it was fun to do this and see what other people in my cohort were working on.
+
+You can download my thesis and research poster from my website [here](https://harryli.netlify.app/research/).
+
+**Final Score:** 90.00, Excellent MSc Applied Mathematics Project Prize
+
+# Graduation
+
+Graduation for me took place in May 2024, which was around nine months after graduating in October 2023. The nice thing about Imperial’s graduation is that it’s convened in the Royal Albert Hall! It was really amazing to graduate in such an iconic building. I got really lucky with the weather too as it was sunny.
+
+![Graduation](/img/imperial_graduation_tower.png)
+Graduation photo at The Albert Memorial! 😊
+
+# Final thoughts
+
+The Master’s was very time consuming and combining part-time studying with a full-time job was really challenging. I am fortunate that I had no other real responsibilities in life and could dedicate myself to focussing on work and study for two years, so it was just about manageable. My employer was also helpful as they allowed me to work flexible hours, which really helped so I could attend lectures during the day. Given how much effort I put in, it was rewarding to complete the Master’s with distinction and also to win prizes for my research project, and to graduate in the Royal Albert Hall.
+
+If you have any comments, or found this blog useful, please comment below! For any potentially interested students, I am also happy to answer any questions.
+
+# References
+
+<div id="refs" class="references csl-bib-body hanging-indent" entry-spacing="0">
+
+<div id="ref-Brezis2010" class="csl-entry">
+
+Brezis, H. 2010. *Functional Analysis, Sobolev Spaces and Partial Differential Equations*. Universitext. Springer New York. <https://books.google.co.uk/books?id=GAA2XqOIIGoC>.
+
+</div>
+
+<div id="ref-Salsa2016" class="csl-entry">
+
+Salsa, S. 2016. *Partial Differential Equations in Action: From Modelling to Theory*. UNITEXT. Springer International Publishing. <https://books.google.co.uk/books?id=bdkyDQAAQBAJ>.
+
+</div>
+
+<div id="ref-Sasane2017" class="csl-entry">
+
+Sasane, A. 2017. *A Friendly Approach to Functional Analysis*. Essential Textbooks in Mathematics. World Scientific Publishing Company. <https://books.google.co.uk/books?id=vEQyDwAAQBAJ>.
+
+</div>
+
+</div>

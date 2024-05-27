@@ -3,7 +3,7 @@ title: "My review of the MSc Econometrics and Mathematical Economics at LSE"
 subtitle: "Updated! (2024)"
 author: "Harry Li"
 date: 2022-12-17
-tags: ["LSE", "EME"]
+tags: ["LSE", "EME", "University"]
 ShowToc: true
 ---
 
