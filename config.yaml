@@ -3,9 +3,6 @@ title: Harry Li
 theme: "hugo-PaperMod"
 languageCode: en-us
 
-# ignoreFiles:
-#   - "/post/university/Imperial"
-
 menu:
   main:
     - name: Blog
@@ -32,7 +29,6 @@ params:
               url: "/blog"
             - name: CV
               url: "/post/About/public.pdf"
-    math: true
     socialIcons:
         - name: "LinkedIn"
           url: "https://www.linkedin.com/in/harryxcli/"
