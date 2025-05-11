@@ -7,7 +7,6 @@ tags: ["chess"]
 
 ```{r, setup, echo=FALSE, message=FALSE}
 library(tidyverse)
-library(here)
 library(knitr)
 
 knitr::opts_chunk$set(
@@ -77,6 +76,14 @@ The full tournament results can be found on [chess-results](https://chess-result
 ```{r, include=TRUE}
 knitr::include_graphics(
  "/img/eurochess25/harry_blitzr1.jpg", error=FALSE
+)
+```
+
+I won a trophy for winning the blitz tournament:
+
+```{r, include=TRUE}
+knitr::include_graphics(
+ "/img/eurochess25/blitz_trophy.jpg", error=FALSE
 )
 ```
 

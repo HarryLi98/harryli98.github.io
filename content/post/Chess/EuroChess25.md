@@ -52,6 +52,10 @@ The full tournament results can be found on [chess-results](https://chess-result
 
 ![](../../../../../../../../img/eurochess25/harry_blitzr1.jpg)<!-- -->
 
+I won a trophy for winning the blitz tournament:
+
+![](../../../../../../../../img/eurochess25/blitz_trophy.jpg)<!-- -->
+
 ## Judit Polgár
 The highlight of the trip came after winning the Blitz tournament. The organisers had arranged for Judit Polgár to visit to give a lecture, followed by a simultaneous exhibition against the 18 central banks. Judit Polgár is widely regarded as the best female chess player of all time, and a former top 10 player in the world.
 
