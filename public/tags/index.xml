@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Harry Li</title>
+    <link>https://harryli.netlify.app/tags/</link>
+    <description>Recent content in Tags on Harry Li</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://harryli.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chess</title>
+      <link>https://harryli.netlify.app/tags/chess/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/chess/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imperial</title>
+      <link>https://harryli.netlify.app/tags/imperial/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/imperial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://harryli.netlify.app/tags/life/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maths</title>
+      <link>https://harryli.netlify.app/tags/maths/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/maths/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>University</title>
+      <link>https://harryli.netlify.app/tags/university/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/university/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dplyr</title>
+      <link>https://harryli.netlify.app/tags/dplyr/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/dplyr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EME</title>
+      <link>https://harryli.netlify.app/tags/eme/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/eme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LSE</title>
+      <link>https://harryli.netlify.app/tags/lse/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://harryli.netlify.app/tags/lse/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
