@@ -1,7 +1,8 @@
 ---
 title: "EuroChess 2026"
-output: html_document
+author: "Harry Li"
 date: "2026-05-17"
+tags: ["chess"]
 ---
 
 
