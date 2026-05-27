@@ -1,0 +1,42 @@
+---
+title: "EuroChess 2026"
+output: html_document
+date: "2026-05-17"
+---
+
+
+
+## Arrival
+
+The 2026 EuroChess took place from 14th-17th May at the Deutsche Bundesbank training centre in Eltville am Rhein. The event was jointly hosted by the Deutsche Bundesbank and the European Central Bank. I was one of five players to represent the Bank of England.
+
+We arrived on Thursday and were warmly welcomed. We enjoyed the various activities on offer at the centre, such as tasting Eltville's wines in the cellar, playing pool, bowling, as well as the scenic walkway along the Rhine.
+
+## Rapid Tournament
+
+On Friday the main tournament began. The tournament followed a Swiss format, with 9 rounds of rapidplay, with a time control of 15 minutes plus 3 second increment. There were 98 players from 18 central banks. Each team could have a maximum of six players, and the final score for each team was the sum of their top four participants’ scores.
+ 
+The Bank was competitive throughout the tournament, and finished in a respectable 8th place with a score of 21.5/36. The tournament was narrowly won by Banque de France with a score of 25/36. The full team results can be found [here]().
+
+On the individual front, I won the tournament with a perfect score of 9/9, which I’m told may be a record in EuroChess history – which has been running since the 1990s. The full individual results can be found [here](https://s1.chess-results.com/tnr1373437.aspx?lan=1&art=4&fed=POR&SNode=S0).
+
+
+![Playing](/img/eurochess26/Playing.jpg)
+Round 6: Harry Li (Bank of England) versus Albert Termeulen (De Nederlandsche Bank) 
+
+
+The day finished with an outdoor barbecue, which was also when a very special guest arrived – five-time World Chess Champion Viswanathan ‘Vishy’ Anand.
+
+# Saturday & Sunday
+
+On Saturday, we travelled to Frankfurt and were given a guided tour of the European Central Bank. We then walked along the River Main and had a nice lunch at Main Nizza, before heading back to Eltville. In the afternoon, Vishy gave a lecture on prophylactic thinking and gave a simultaneous display – playing against all the central banks at once. We gave Vishy plenty to think about, but he outcalculated us in a sharp tactical battle, and we ultimately blundered a detail under pressure. Some consolation was that he went undefeated across the entire simul. The day concluded with the prize-giving ceremony, where I had the pleasure of receiving my individual trophy from Vishy himself.
+
+![Prize Giving](/img/eurochess26/PrizeGiving.jpg)
+
+On Sunday, to conclude the event, we were given a lecture from legendary trainer Grandmaster Artur Yusupov, which was entertaining and instructive. He analysed one of his wins against Vishy from Linares 1992 (one of chess's most prestigious tournaments), advising people to play solid, risk-averse chess against Vishy. Unfortunately his advice came too late for us!
+
+## Final Thoughts
+
+What impressed me the most from this trip was the power that chess has to unite people from across the world. The atmosphere was friendly and relaxed, with many players staying up past midnight playing chess in the analysis room. My thanks go to the Deutsche Bundesbank and the ECB for hosting this wonderful event.
+
+_Photos: EuroChess26 / Gerd Densing_
